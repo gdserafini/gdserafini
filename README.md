@@ -1,7 +1,7 @@
 ### Hi there, I'm Giordano D. Serafini 👋
 
 - 📖 Studying production engineering at UFPR
-- 💻 I’m currently learning C/C++/Algoritms/Data structure
+- 💻 I’m currently learning Python/OOP/Algoritms
 
 <div>
   <a href="https://beacons.ai/gdserafini">
