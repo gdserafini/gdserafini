@@ -1,8 +1,7 @@
 ### Hi there, I'm Giordano D. Serafini 👋
 
-- 📖 Studying production engineering at UFPR
 - 📖 Course In-Company Bradesco - Visionnarie - PUCPR -> Back-end
-- 💻 I’m currently learning Java/TDD/Algorithms
+- 💻 I’m currently learning Java/Algorithms/Software engineering
 
 <div>
   <a href="https://beacons.ai/gdserafini">
