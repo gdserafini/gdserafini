@@ -1,7 +1,6 @@
 ### Hi there, I'm Giordano D. Serafini 👋
 
 - 📖 Course In-Company Bradesco - Visionnarie - PUCPR -> Back-end
-- 💻 I’m currently learning Java/Algorithms/Software engineering
 
 <div>
   <a href="https://beacons.ai/gdserafini">
