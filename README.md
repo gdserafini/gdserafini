@@ -1,7 +1,7 @@
 ### Hi there, I'm Giordano D. Serafini 👋
 
 - 💻 Computer Information Systems - PUCPR
-- 📖 Extension course - Web Development - Back End - PUCPR 
+- 📖 Google Data Analytics Professional Certificate - in progress...
 
 <div>
   <a href="https://beacons.ai/gdserafini">
