@@ -1,7 +1,7 @@
 ### Hi there, I'm Giordano D. Serafini 👋
 
 - 📖 Computer Information Systems - PUCPR
-- 💻 Data Engineer
+- 💻 Software Engineer
 
 <div>
   <a href="https://beacons.ai/gdserafini">
