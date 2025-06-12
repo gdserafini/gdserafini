@@ -36,8 +36,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="vite logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="vite logo"  />
-  <img width="12" />
 </div>
 
 <h2 align="left">My networks:</h2>
