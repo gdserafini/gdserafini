@@ -1,7 +1,7 @@
 <h1 align="left">Hi there, I'm Giordano D. Serafini 👋</h1>
 
 - 📖 Computer Information Systems - PUCPR
-- 💻 Software Engineer
+- 💻 Data Engineer
 
 <div>
   <a href="https://beacons.ai/gdserafini">
