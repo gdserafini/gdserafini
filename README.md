@@ -1,4 +1,4 @@
-<h1 align="left">Hi there, I'm Giordano D. Serafini 👋</h1>
+<h1 align="left">Hi there, I'm Giordano 👋</h1>
 
 - 📖 Computer Information Systems - PUCPR
 - 💻 Software Engineer
